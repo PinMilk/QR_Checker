@@ -1,7 +1,7 @@
-# qrchecker - 전자출입명부(KI-Pass) QR코드 생성기
+# QR_Checker - 전자출입명부(KI-Pass) QR코드 생성기
 [![TypeScript](https://img.shields.io/badge/Built%20with-Typescript-informational?logo=typescript)](https://www.typescriptlang.org/)
 [![Passed](https://img.shields.io/badge/Build-Passed-success)](#)
-[![License](https://img.shields.io/github/license/pinmilk/qrchecker)](./LICENSE)
+[![License](https://img.shields.io/github/license/pinmilk/QR_Checker)](./LICENSE)
 - Note: It can stop working anytime.
         You should register on Naver KI-Pass.
 - 전달: 이 프로그램은 언제든지 작동을 멈출 수 있습니다.
@@ -10,9 +10,9 @@
 
 ### 1. 저장소 복제
 ```bash
-git clone https://github.com/PinMilk/qrchecker
+git clone https://github.com/PinMilk/QR_Checker
 ```
-위 명령어로 qrchecker 레포를 클론합니다.
+위 명령어로 QR_Checker 레포를 클론합니다.
 
 ### 2. 코드 짜기
 아래와 같이 코드를 짭니다.
@@ -34,6 +34,6 @@ tsc
 이제 Express 등을 이용하여, 특정 URL로 접속하면 QR코드를 출력하는 형식으로 만들거나,
 안드로이드, iOS 등으로 QR코드를 출력하는 앱을 만들어 사용할 수 있습니다.
 ## Reference
-[neicebee](https://github.com/neicebee/py_naver_login)
+py_naver_login([neicebee](https://github.com/neicebee/py_naver_login))
 ## License
-qrchecker is following MIT License.
+QR_Checker is following MIT License.
