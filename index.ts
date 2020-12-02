@@ -1,0 +1,1 @@
+export { QRChecker } from './src/QRCheck';
