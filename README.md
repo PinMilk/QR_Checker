@@ -3,9 +3,9 @@
 [![Passed](https://img.shields.io/badge/Build-Passed-success)](#)
 [![License](https://img.shields.io/github/license/pinmilk/QR_Checker)](./LICENSE)
 - Note: It can stop working anytime.
-        You should register on Naver KI-Pass.
+      You should register on Naver KI-Pass.
 - 전달: 이 프로그램은 언제든지 작동을 멈출 수 있습니다.
-        당신은 네이버 KI-Pass에 등록을 해야 합니다.
+      당신은 네이버 KI-Pass에 등록을 해야 합니다.
 ## 사용법
 
 ### 1. 저장소 복제
