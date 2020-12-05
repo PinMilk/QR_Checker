@@ -10,7 +10,7 @@
       당신이 한국 거주자가 아니라면, 이 프로그램을 사용할 수 없습니다.
 - [English Reference](./README.en.md)
 
-[![NPM](https://nodei.co/npm/nodepapago.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/nodepapago/)
+[![NPM](https://nodei.co/npm/qrchecker.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/qrchecker/)
 ## 설치
 ```bash
 npm i qrchecker
