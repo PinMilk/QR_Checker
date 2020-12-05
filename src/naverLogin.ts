@@ -186,7 +186,8 @@ class NaverManager {
         const data: string = this.toFormData({
             encnm: keyname,
             encpw,
-            bvsd
+            bvsd,
+            nvlong: 'on'
         });
         const config: AxiosRequestConfig = {
             headers: {
