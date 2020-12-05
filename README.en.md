@@ -5,16 +5,14 @@
 - Note: It can stop working anytime.<br />
       You should register on Naver KI-Pass.<br />
       If you are not a resident of S.Korea, you can't use this.
-- 전달: 이 프로그램은 언제든지 작동을 멈출 수 있습니다.<br />
-      당신은 네이버 KI-Pass에 등록을 해야 합니다.<br />
-      당신이 한국 거주자가 아니라면, 이 프로그램을 사용할 수 없습니다.
-- [English Reference](./README.en.md)
+- [Korean Reference](./README.md)
 
-[![NPM](https://nodei.co/npm/nodepapago.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/nodepapago/)
-## 설치
+[![NPM](https://nodei.co/npm/qrchecker.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/qrchecker/)
+## Install
 ```bash
 npm i qrchecker
 ```
+???: From this day foward, it's going to be only "You can use this."
 ## Reference
 py_naver_login([neicebee](https://github.com/neicebee/py_naver_login))
 ## License
