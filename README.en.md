@@ -12,7 +12,6 @@
 ```bash
 npm i qrchecker
 ```
-???: From this day foward, it's going to be only "You can use this."
 ## Reference
 py_naver_login([neicebee](https://github.com/neicebee/py_naver_login))
 ## License
