@@ -12,7 +12,5 @@
 ```bash
 npm i qrchecker
 ```
-## Reference
-py_naver_login([neicebee](https://github.com/neicebee/py_naver_login))
 ## License
 QR_Checker is following MIT License.

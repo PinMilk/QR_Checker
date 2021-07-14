@@ -19,7 +19,5 @@ npm i qrchecker
 `이 패키지를 이용하여 백엔드를 구성합니다.`
 ### 3. 프론트엔드 연결
 `프론트엔드와 백엔드와의 통신을 구성합니다.`
-## Reference
-py_naver_login([neicebee](https://github.com/neicebee/py_naver_login))
 ## License
 QR_Checker is following MIT License.

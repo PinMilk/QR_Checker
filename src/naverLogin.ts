@@ -7,7 +7,6 @@ import {
 } from 'uuid';
 import LZString from 'lz-string';
 import NodeRSA from 'node-rsa';
-// Thanks to https://github.com/neicebee/py_naver_login
 class NaverManager {
     protected username: string;
     protected password: string;
